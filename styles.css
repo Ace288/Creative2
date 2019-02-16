@@ -1,0 +1,49 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: lavender;
+}
+
+h1 {
+  text-align: center;
+  font-family: Calibri;
+}
+
+div {
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: Calibri;
+ }
+
+li {
+  padding-top: 10px;
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+img:hover
+  {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  }
+
